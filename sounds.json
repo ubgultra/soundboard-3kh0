@@ -1036,11 +1036,6 @@
       "mp3": "sounds/onetwobucklemyshoe.mp3"
     },
     {
-      "name": "sound_fart_2",
-      "color": "#339900",
-      "mp3": "sounds/fart.mp3"
-    },
-    {
       "name": "DOWN IN OHIO",
       "color": "#000000",
       "mp3": "sounds/downinohio.mp3"
