@@ -1,7 +1,7 @@
 {
   "sounds": [
     {
-      "name": "git clone check",
+      "name": "Fart",
       "color": "#339900",
       "mp3": "sounds/fart.mp3"
     },
@@ -1034,6 +1034,11 @@
       "name": "1, 2, buckle my shoe",
       "color": "#4fb2e3",
       "mp3": "sounds/onetwobucklemyshoe.mp3"
+    },
+    {
+      "name": "sound_fart_2",
+      "color": "#339900",
+      "mp3": "sounds/fart.mp3"
     },
     {
       "name": "DOWN IN OHIO",
